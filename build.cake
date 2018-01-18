@@ -3,7 +3,7 @@ var solution = "./src/FullStack.sln";
 Task("Clean")
     .Does(
         ()=>{
-            Information("Clean");
+            Information("Cleaner");
         }
     );
 
